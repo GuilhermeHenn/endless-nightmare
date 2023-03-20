@@ -1,0 +1,61 @@
+* {
+   margin: 0;
+   box-sizing: border-box;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+   height: 100vh;
+   background-image: url(https://i.ibb.co/PYhYS55/background-image.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   font-family: 'Inter', sans-serif;
+   padding-top: 160px;
+}
+
+h3 {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 19px;
+   color: #FFFFFF;
+}
+
+h3 span {
+   color: #FFC700;
+}
+
+h1 {
+   font-family: 'Emilys Candy', cursive;
+   font-size: 64px;
+   font-weight: 400;
+   line-height: 80px;
+   color: #FFC700;
+}
+
+p {
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #FFFFFF;
+   opacity: 0.7;
+   margin-bottom: 72px;
+}
+
+a {
+   padding: 12px 32px;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #FFFFFF;
+   opacity: 0.6;
+}
+
+#play-now {
+   background-color: #FFC700;
+   color: #040101;
+   opacity: 1.0;
+   text-decoration: none;
+}
